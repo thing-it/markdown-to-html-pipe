@@ -1,5 +1,5 @@
 {
-  "name": "markdown-to-html-pipe",
+  "name": "@thing-it/markdown-to-html-pipe",
   "version": "1.2.7",
   "description": "Angular Pipe that transforms a markdown string to HTML",
   "main": "index.js",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/conclurer/markdown-to-html-pipe.git"
+    "url": "git+https://github.com/thing-it/markdown-to-html-pipe.git"
   },
   "keywords": [
     "angular2",
@@ -29,10 +29,6 @@
   ],
   "author": "Conclurer GmbH",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/conclurer/markdown-to-html-pipe/issues"
-  },
-  "homepage": "https://github.com/conclurer/markdown-to-html-pipe#readme",
   "devDependencies": {
     "@angular/compiler": "15.1.0",
     "@angular/compiler-cli": "15.1.0",
