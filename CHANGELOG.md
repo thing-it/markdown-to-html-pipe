@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.2.7
+
+- Update to Angular 15
+- Update all dependencies
+- Remove tslint
+
+
 ## 1.2.6
 
 - Add support for Angular 8, 9, 10 & 11.
