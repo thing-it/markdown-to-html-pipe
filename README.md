@@ -1,4 +1,11 @@
+# Deprecation notice
+> **Warning**
+> This package is no longer actively maintained. 
+> We have implemented a custom solution within our main repos. 
+> This serves as an archive and may be deleted in the future.
+
 # Markdown To HTML Pipe
+
 
 Converts a Markdown string, outputs HTML.
 
